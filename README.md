@@ -6,7 +6,7 @@ Change Android TV language back to english
 
 I think it's a LG HDMI CEC problem?
 
-.apk at release tab
+.apk at "releases" tab
 
 After installing the app, you need to run this command: (adb needed)
 
