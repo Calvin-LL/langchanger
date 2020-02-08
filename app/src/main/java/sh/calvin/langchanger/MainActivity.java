@@ -1,4 +1,4 @@
-package com.example.langchanger;
+package sh.calvin.langchanger;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

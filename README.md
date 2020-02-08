@@ -10,6 +10,6 @@ I think it's a LG HDMI CEC problem?
 
 After installing the app, you need to run this command: (adb needed)
 
-`adb shell pm grant com.example.langfuck android.permission.CHANGE_CONFIGURATION`
+`adb shell pm grant sh.calvin.langchanger android.permission.CHANGE_CONFIGURATION`
 
 and then on the tv with your remote in hand, turn on Settings->Apps->Special app access->Modify system settings->lang changer

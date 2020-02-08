@@ -1,4 +1,4 @@
-package com.example.langchanger;
+package sh.calvin.langchanger;
 
 import java.util.Locale;
 
