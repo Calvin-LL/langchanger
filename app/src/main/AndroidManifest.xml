@@ -4,6 +4,7 @@
     package="sh.calvin.langchanger">
     <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
     <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-feature
         android:name="android.hardware.touchscreen"
         android:required="false" />
